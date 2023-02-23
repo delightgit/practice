@@ -7,6 +7,7 @@ public class ApplicationDemo {
 				"Bananas",
 				"Cucumbers",
 				"Cat Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
