@@ -5,12 +5,13 @@ public class ApplicationDemo {
 		String[] shopList = new String[] {
 				"Apples",
 				"Bananas",
-				"Corn",
-				"Dog Food",
+				"Cucumbers",
+				"Cat Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Low Fat Milk"
 		};
 		for (String item: shopList) {
 			System.out.println(item);
