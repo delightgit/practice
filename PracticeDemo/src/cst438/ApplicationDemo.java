@@ -10,7 +10,7 @@ public class ApplicationDemo {
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Low Fat Milk"
 		};
 		for (String item: shopList) {
 			System.out.println(item);
